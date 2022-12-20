@@ -1,2 +1,2 @@
-console.log('config.cs');
-console.log('version1');
+console.log('config.js');
+console.log('version2');
